@@ -7,5 +7,5 @@ struct membox{
 };
 
 struct membox *init();
-#endif membox_h_INCLUDED
+#endif
 
